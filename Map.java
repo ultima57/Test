@@ -4,5 +4,6 @@ public class Map {
         System.out.println("3232323");
         System.out.println(" 444");
         System.out.println(" ill");
+        int a = 58;
     }
 }
